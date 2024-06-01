@@ -38,7 +38,7 @@ const About = () => {
                 I'm a Senior studying Computer Science and Engineering at
                 the University of California, Merced set to graduate with a Bachelor's degree by May 2025. I'm currently searching for Summer computer science internships.
                 <br /> <br />
-                Whether its through health or innovating puzzles, I enjoy finding ways to connect and educate the mind through software and game development.
+                Whether it's through health or innovating puzzles, I enjoy finding ways to connect and educate the mind through software and game development.
                 <br /> <br />
                 I have been committed to exploring the endless possibilities that computer science offers. Contact me at 
                 <a href="mailto:wtrantan@gmail.com"> <u>wtrantan@gmail.com</u>! </a>
