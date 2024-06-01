@@ -1,6 +1,6 @@
 # 3D Parallax Developer Portfolio Website
 
-Welcome to my portfolio website!
+Welcome to my portfolio website! Thanks to Forrest Knight for the ThreeJS template, which I heavily modified and customized, and JavaScript Mastery for help with JavaScript implementations and Tailwind.
 
 ## Technologies
 - Vite - Build tool for the boilerplate and structure
