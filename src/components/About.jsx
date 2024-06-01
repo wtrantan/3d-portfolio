@@ -77,7 +77,7 @@ const About = () => {
             {/* LinkedIn Button */}
             <div className="h-full max-[1000px]:my-14">
               <div class="green-pink-gradient p-[1px] rounded-full flex justify-center items-center cursor-pointer mt-4 select-none">
-              <button
+              <a href="https://www.linkedin.com/in/wtrantan/" target="_blank"><button
   class="cursor-pointer flex justify-between bg-gray-800 px-3 py-2 rounded-full text-white tracking-wider shadow-xl hover:bg-gray-900 hover:scale-105 duration-500 hover:ring-1 font-mono w-[150px]"
 >
 <div class="rounded-full flex justify-evenly items-center ">
@@ -85,6 +85,7 @@ const About = () => {
                       <p class="font-mono w-[70px]">Linkedin</p>
                   </div>
 </button>
+</a>
 
               </div>
             </div>
@@ -92,7 +93,7 @@ const About = () => {
             {/* GitHub Button */}
             <div className="h-full max-[1000px]:my-14">
               <div class="green-pink-gradient p-[1px] rounded-full flex justify-center items-center cursor-pointer mt-4 select-none">
-              <button
+              <a href="https://github.com/wtrantan" target="_blank"> <button
   class="cursor-pointer flex justify-between bg-gray-800 px-3 py-2 rounded-full text-white tracking-wider shadow-xl hover:bg-gray-900 hover:scale-105 duration-500 hover:ring-1 font-mono w-[150px]"
 >
 <div class="rounded-full flex justify-evenly items-center ">
@@ -100,13 +101,14 @@ const About = () => {
                       <p class="w-[70px]">GitHub</p>
                   </div>
 </button>
+</a>
 
               </div>
             </div>
             {/* Outlook Button */}
             <div className="h-full max-[1000px]:my-14">
               <div class="green-pink-gradient p-[1px] rounded-full flex justify-center items-center cursor-pointer mt-4 select-none">
-              <button
+              <a href="mailto:wtrantan@gmail.com" target="_blank"><button
   class="cursor-pointer flex justify-between bg-gray-800 px-3 py-2 rounded-full text-white tracking-wider shadow-xl hover:bg-gray-900 hover:scale-105 duration-500 hover:ring-1 font-mono w-[150px]"
 >
 <div class="rounded-full flex justify-evenly items-center ">
@@ -114,6 +116,7 @@ const About = () => {
                       <p class=" w-[70px] ">Email</p>
                   </div>
 </button>
+</a>
 
               </div>
             </div>
