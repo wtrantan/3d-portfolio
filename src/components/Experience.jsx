@@ -85,7 +85,7 @@ const Experience = () => {
           Experience
         </h2>
       </motion.div>
-      <div className="group relative left-[50%] -translate-x-[50%] 
+      {/* <div className="group relative left-[50%] -translate-x-[50%] 
     z-20">
     <a className="absolute top-10 left-[50%] -translate-x-[50%] 
     z-19" href={resume} target="_blank" >
@@ -103,7 +103,7 @@ const Experience = () => {
     border-gray-300 bg-white py-2 text-sm  font-bold
     shadow-md transition-all duration-300 ease-in-out 
     group-hover:scale-100 text-gray-500">Resume<span>
-  </span></span></div>
+  </span></span></div> */}
 
 
 
