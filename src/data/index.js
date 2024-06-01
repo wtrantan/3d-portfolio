@@ -39,7 +39,6 @@ const experiences = [
     details: [
       // <span style='color: white;'></span>
       "Responsible for designing and creating a full-stack website and implementing <span style='color: white;'>YouTube API</span> to create <span style='color: white;'>interactive videos</span> to advocate and promote health to the people of <span style='color: white;'>San Joaquin Valley</span>.",
-      "",
       "Producing easy to use features for users to navigate the site.",
     ],
   },
@@ -48,7 +47,7 @@ const experiences = [
     company_name: "Daiso",
     date: "2022",
     details: [
-      "Improved customer satisfaction by <span style='color: white;'>resolving issues promptly</span>, demonstrating <span style='color: white;'>strong problem-solving skills.</span>",
+      "Improved customer satisfaction by <span style='color: white;'>resolving issues promptly</span>, and demonstrating <span style='color: white;'>strong problem-solving skills.</span>",
       "Collaborated with team members to achieve sales targets, showcasing <span style='color: white;'>teamwork and communication skills.</span>"
     ],
   },   
