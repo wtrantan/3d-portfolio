@@ -36,7 +36,7 @@ const About = () => {
             <div className="flex flex-col items-center min-[1000px]:items-start">
               <p  className="mt-4 text-secondary text-sm sm:text-xs md:text-sm lg:text-md xl:text-lg 2xl:text-xl" style={{ textAlign: 'justify' }}>
                 I'm a Senior studying Computer Science and Engineering at
-                University of California, Merced set to graduate with a Bachelor's degree by May 2025. I'm currently searching for Summer computer science internships.
+                the University of California, Merced set to graduate with a Bachelor's degree by May 2025. I'm currently searching for Summer computer science internships.
                 <br /> <br />
                 Whether its through health or innovating puzzles, I enjoy finding ways to connect and educate the mind through software and game development.
                 <br /> <br />
