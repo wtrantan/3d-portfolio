@@ -16,8 +16,8 @@ import outlook from "./logo/outlook.png";
 import resume from "./personal/resume.pdf";
 import tht from "./THT_logo_v1.png";
 import port from "./portfolio.png";
-
-
-export { close, logo, menu, me, karina, karinasys, youtube, github, linkedin, outlook, resume, tht, port
+import cauldron from "./cauldron.png";
+import rxplain from "./rxplain.png";
+export { close, logo, menu, me, karina, karinasys, youtube, github, linkedin, outlook, resume, tht, port, cauldron, rxplain
      };
 

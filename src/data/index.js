@@ -3,6 +3,8 @@ import {
   karinasys,
   tht,
   port,
+  cauldron,
+  rxplain
 } from "../assets";
 
 export const navLinks = [
@@ -35,12 +37,21 @@ const experiences = [
     company_name: "Tiny Health Tales",
     date: "2023 - Present",
     details: [
-      // <span style='color: white;'>500,000 subscribers</span>
+      // <span style='color: white;'></span>
       "Responsible for designing and creating a full-stack website and implementing <span style='color: white;'>YouTube API</span> to create <span style='color: white;'>interactive videos</span> to advocate and promote health to the people of <span style='color: white;'>San Joaquin Valley</span>.",
       "",
       "Producing easy to use features for users to navigate the site.",
     ],
   },
+    {
+ title: "Sales Associate",
+    company_name: "Daiso",
+    date: "2022",
+    details: [
+      "Improved customer satisfaction by <span style='color: white;'>resolving issues promptly</span>, demonstrating <span style='color: white;'>strong problem-solving skills.</span>",
+      "Collaborated with team members to achieve sales targets, showcasing <span style='color: white;'>teamwork and communication skills.</span>"
+    ],
+  },   
   {
     title: "Web Developer Intern",
     company_name: "Igniteducation",
@@ -81,9 +92,23 @@ const portfolio = [
   {
     name: "Karina System",
     description:
-      "A showcase of ThreeJS objects, 3d models, and shading materials using Three JS",
+      "A showcase of objects, 3d models, and shading materials using Three JS",
     image: karinasys,
     link: "https://github.com/wtrantan/karinasys",
+  },
+  {
+    name: "HackDavis 2024",
+    description:
+      "During HackDavis 2024 in a team of 4, we created a recipe generating app using the items they have in their fridge using Open AI with a backend. We want people to make more health concious decisions with food and to help with that is to make managing groceries in your fridge easier.",
+    image: cauldron,
+    link: "https://github.com/wtrantan/HackDavis",
+  },
+  {
+    name: "HackMerced 2024",
+    description:
+      "During HackMerced 2024 in a team of 4, we created a medication management app with language changing abilities using google translate API, to add inclusiveness to everyone. (Won for best Domain name from GoDaddy Registry)",
+    image: rxplain,
+    link: "https://github.com/wtrantan/HackMerced-Health-For-Social-Good",
   },
 ];
 
