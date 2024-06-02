@@ -8,7 +8,7 @@ import menu from "./menu.svg";
 import karina from "./karina.png";
 import karinasys from "./karinasys.png";
 
-import me from "./William_Trantan.jpg";
+import me from "./personal/William_Trantan.jpg";
 import youtube from "./logo/youtube.png";
 import github from "./logo/github.png";
 import linkedin from "./logo/linkedin.png";
