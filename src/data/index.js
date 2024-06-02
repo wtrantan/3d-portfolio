@@ -18,7 +18,7 @@ export const navLinks = [
   },
   {
     id: "portfolio",
-    title: "Portfolio",
+    title: "Projects",
   },
   {
     id: "experience",
@@ -75,13 +75,6 @@ const experiences = [
 
 const portfolio = [
   {
-    name: "Website Portfolio",
-    description:
-      "Welcome to my website! This project was created using Vite, JavaScript, ThreeJS, React, Framer Motion, and Tailwind. Thanks to Forrest Knight for the ThreeJS template, which I heavily modified and customized, and JavaScript Mastery for help with JavaScript implementations and Tailwind.",
-    image: port,
-    link: "https://github.com/wtrantan/React-Portfolio-ThreeJS",
-  },
-  {
     name: "Tiny Health Tales",
     description:
       "Tiny Health Tales is an organization aimed to educate people in health with interactive media. I am responsible for leading a team, designing and creating a full-stack website and implementing interactive videos",
@@ -108,6 +101,13 @@ const portfolio = [
       "During HackMerced 2024 in a team of 4, we created a medication management app with language changing abilities using google translate API, to add inclusiveness to everyone. (Won for best Domain name from GoDaddy Registry)",
     image: rxplain,
     link: "https://github.com/wtrantan/HackMerced-Health-For-Social-Good",
+  },
+  {
+    name: "Website Portfolio",
+    description:
+      "Welcome to my website! This project was created using Vite, JavaScript, ThreeJS, React, Framer Motion, and Tailwind. Thanks to Forrest Knight for the ThreeJS template, which I heavily modified and customized, and JavaScript Mastery for help with JavaScript implementations and Tailwind.",
+    image: port,
+    link: "https://github.com/wtrantan/React-Portfolio-ThreeJS",
   },
 ];
 
