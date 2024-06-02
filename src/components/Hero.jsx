@@ -1,4 +1,4 @@
-import { SpacemanCanvas } from ".";
+import { SpacemanCanvas, RetroCanvas } from ".";
 import Position from "./Position";
 // import { MagicCanvas } from "./canvas";
 const Hero = ({ scrollContainer }) => {
@@ -27,6 +27,8 @@ const Hero = ({ scrollContainer }) => {
       <img className="parallax__sun" src="./parallax/6Sun.svg" alt="" />
 
       <SpacemanCanvas scrollContainer={scrollContainer} />
+      <RetroCanvas scrollContainer={scrollContainer} />
+      
     </section>
   );
 };
