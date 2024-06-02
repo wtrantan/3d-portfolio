@@ -57,17 +57,17 @@ const RetroCanvas = ({ scrollContainer }) => {
     // };
     const handleResize = () => {
       if (window.innerWidth < 768) {
-        setScale([1, 1, 1]);
-        setPosition([0.2, -0.1, 0]);
+        setScale([0.8, 0.8, 0.8]);
+        setPosition([0, 5.5, -4]);
       } else if (window.innerWidth < 1024) {
-        setScale([1.33, 1.33, 1.33]);
-        setPosition([0.2, -0.3, 0]);
+        setScale([0.8, 0.8, 0.8]);
+        setPosition([-1, 5, -4]);
       } else if (window.innerWidth < 1280) {
-        setScale([1.5, 1.5, 1.5]);
-        setPosition([0.2, -0.4, 0]);
+        setScale([0.8, 0.8, 0.8]);
+        setPosition([-4, 4.5, -4]);
       } else if (window.innerWidth < 1536) {
-        setScale([1.66, 1.66, 1.66]);
-        setPosition([0.2, -0.5, 0]);
+        setScale([0.9, 0.9, 0.9]);
+        setPosition([-3, 4.5, -4]);
       } else {
         setScale([1, 1, 1]);
         setPosition([-2, 5, -4]);

@@ -95,6 +95,23 @@ const portfolio = [
     image: cauldron,
     link: "https://github.com/wtrantan/HackDavis",
   },
+  // {
+  //   name: "HackMerced 2024",
+  //   description:
+  //     "During HackMerced 2024 in a team of 4, we created a medication management app with language changing abilities using google translate API, to add inclusiveness to everyone. (Won for best Domain name from GoDaddy Registry)",
+  //   image: rxplain,
+  //   link: "https://github.com/wtrantan/HackMerced-Health-For-Social-Good",
+  // },
+  // {
+  //   name: "Website Portfolio",
+  //   description:
+  //     "Welcome to my website! This project was created using Vite, JavaScript, ThreeJS, React, Framer Motion, and Tailwind. Thanks to Forrest Knight for the ThreeJS template, which I heavily modified and customized, and JavaScript Mastery for help with JavaScript implementations and Tailwind.",
+  //   image: port,
+  //   link: "https://github.com/wtrantan/React-Portfolio-ThreeJS",
+  // },
+];
+
+const projects = [
   {
     name: "HackMerced 2024",
     description:
@@ -110,6 +127,5 @@ const portfolio = [
     link: "https://github.com/wtrantan/React-Portfolio-ThreeJS",
   },
 ];
-
-export { experiences, portfolio };
+export { experiences, portfolio, projects };
 
