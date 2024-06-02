@@ -124,7 +124,7 @@ const projects = [
     description:
       "Welcome to my website! This project was created using Vite, JavaScript, ThreeJS, React, Framer Motion, and Tailwind. Thanks to Forrest Knight for the ThreeJS template, which I heavily modified and customized, and JavaScript Mastery for help with JavaScript implementations and Tailwind.",
     image: port,
-    link: "https://github.com/wtrantan/React-Portfolio-ThreeJS",
+    link: "https://github.com/wtrantan/3d-portfolio",
   },
 ];
 export { experiences, portfolio, projects };
